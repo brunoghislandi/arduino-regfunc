@@ -1,3 +1,5 @@
+/* Compiler used: Aruino IDE */
+
 void pinState(int pin, int state){
   if(pin>=0 && pin<=7){
     if(state==0){
