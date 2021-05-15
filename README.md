@@ -1,7 +1,6 @@
 # # how-to Arduino
 
-### Controlando pinos do ATMEGA328 usando registradores e 
-### funções parametrizadas de entrada e saída. <p> 
+### Controlando pinos do ATMEGA328 usando registradores e funções parametrizadas de entrada e saída. <p> 
 
 * Definição de pinos
 * Escrita de pinos
